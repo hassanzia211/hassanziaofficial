@@ -70,6 +70,4 @@ I am a disciplined software builder specializing in systems architecture, algori
 * **LinkedIn:** (https://www.linkedin.com/in/hassan-zia-3731b4348?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 * **Location:** Nowshera Cantt, Pakistan
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Hassan's GitHub Stats" />
-</p>
+
