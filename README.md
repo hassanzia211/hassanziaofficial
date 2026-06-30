@@ -45,17 +45,17 @@ I am a disciplined software builder specializing in systems architecture, algori
 
 ### 📁 Featured Engineering Projects
 
-#### 🚗 [Ride-Sharing Management System (Mini-Uber)]
+#### 🚗 Ride-Sharing Management System (Mini-Uber)
 * **The Concept:** Simulates a live, efficient ride-hailing core dispatch engine.
 * **The Architecture:** Engineered entirely in **C++** implementing **FIFO Queues** for sequential passenger matchmaking loops and **Binary Search Trees (BSTs)** for high-speed, logarithmic driver record lookups.
-* **Engineering Win:** Eliminated linear lookup latency bottlenecks ($O(n)$) down to highly scalable tree-traversal lookups ($O(\log n)$).
+* **Engineering Win:** Eliminated linear lookup latency bottlenecks down to highly scalable tree-traversal lookups.
 
-#### 🛒 [Point of Sale (POS) System]
+#### 🛒 Point of Sale (POS) System
 * **The Concept:** A highly reliable sales logging, billing, and live inventory management desktop platform.
 * **The Architecture:** Developed utilizing **C#** for a crisp, interactive user interface paired with a secure **MySQL** transactional relational database backend.
 * **Engineering Win:** Modeled strict relational integrity parameters to ensure inventory updates occur simultaneously with automated receipt generation.
 
-#### 🏨 [Hotel Management System]
+#### 🏨 Hotel Management System
 * **The Concept:** A console-based terminal application managing automated room inventory tracking, guest check-ins, and checkout calculations.
 * **The Architecture:** Built with pure **C++**, putting object-oriented programming (OOP), robust pointer-driven memory management, and file streams for data persistence to the test.
 
@@ -67,7 +67,9 @@ I am a disciplined software builder specializing in systems architecture, algori
 ---
 
 ### 🌐 Let's Connect & Collaborate
-* **LinkedIn:** (https://www.linkedin.com/in/hassan-zia-3731b4348?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* **LinkedIn:** [Hassan Zia on LinkedIn](https://www.linkedin.com/in/hassan-zia-3731b4348?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 * **Location:** Nowshera Cantt, Pakistan
 
-
+<p align="center">
+  <img src="https://img.shields.io/github/followers/hassanzia211?style=for-the-badge&logo=github&color=58A6FF&labelColor=0D1117" alt="GitHub Followers" />
+</p>
